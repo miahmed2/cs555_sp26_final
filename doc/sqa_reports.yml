@@ -1,0 +1,6 @@
+Applications:
+    cs555_sp26_final:
+        app_types:
+            - cs555_sp26_finalApp
+        content_directory: ${ROOT_DIR}/doc/content
+        log_default: WARNING
