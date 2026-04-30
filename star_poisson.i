@@ -1,7 +1,6 @@
 [Mesh]
   [mesh]
     type = FileMeshGenerator
-    # Using your generated 5-pointed star mesh
     file = star_domain.e
   []
 []

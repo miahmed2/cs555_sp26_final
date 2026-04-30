@@ -1,5 +1,4 @@
 [Mesh]
-  # Using the mesh you created in Coreform Cubit!
   [mesh]
     type = FileMeshGenerator
     file = rectangle_mesh.e
